@@ -16,6 +16,8 @@
 	"hot_exit": false,
 	"ignored_packages":
 	[
+		"ApplySyntax",
+		"SCSS",
 		"Vintage"
 	],
 	"remember_open_files": false,
